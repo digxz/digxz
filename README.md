@@ -2,7 +2,7 @@
 ### And I'm a student of Web Development! 
 - I'm currenty studing HTML, CSS and Javascript!
 
-### My habilities:
+### My skills:
 <div display="flex">
 <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
