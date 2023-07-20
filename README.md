@@ -1,6 +1,6 @@
 ## Hi! I'm Diego! 😉
 ### And I'm a student of analysis and systems development! 
-- I'm currenty studying HTML, CSS and Go!
+- I'm currenty studying HTML, CSS and Javascript!
 
 ### My skills:
 <div display="flex">
