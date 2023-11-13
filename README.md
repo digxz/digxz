@@ -10,7 +10,7 @@
 
 ### A little about me:
 - I have been working as an IT assistant for over a year!
-- I'm seventeen years old and interested in studying front-end and back-end languages!
+- I'm eighteen years old and interested in studying front-end and back-end languages!
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/diego-castellini-ramirez-136ba1254/"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=blue"> </img></a>
