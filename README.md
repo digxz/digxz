@@ -1,11 +1,12 @@
 ## Hi! I'm Diego! 😉
 ### And I'm a student of analysis and systems development! 
-- I'm currenty studying HTML, CSS and Javascript!
+- I'm currenty studying Javascript andJS Frameworks!
 
 ### My skills:
 <div display="flex">
 <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img alt="Javascript" height ="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 ### A little about me:
