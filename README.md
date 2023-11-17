@@ -1,6 +1,6 @@
 ## Hi! I'm Diego! 😉
 ### And I'm a student of analysis and systems development! 
-- I'm currenty studying Javascript andJS Frameworks!
+- I'm currenty studying Javascript and JS Frameworks!
 
 ### My skills:
 <div display="flex">
