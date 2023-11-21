@@ -1,6 +1,7 @@
 ## Hi! I'm Diego!
 ### And I'm a student of analysis and systems development! 
 - I'm currenty studying Javascript and JS Frameworks!
+- I have been working as an IT assistant for over a year!
 
 ### My skills:
 <div display="flex">
@@ -10,10 +11,6 @@
 
 
 </div>
-
-### A little about me:
-- I have been working as an IT assistant for over a year!
-- I'm eighteen years old and interested in studying front-end and back-end languages!
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/diego-castellini-ramirez-136ba1254/"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=blue"> </img></a>
