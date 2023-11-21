@@ -1,4 +1,4 @@
-## Hi! I'm Diego! 😉
+## Hi! I'm Diego!
 ### And I'm a student of analysis and systems development! 
 - I'm currenty studying Javascript and JS Frameworks!
 
