@@ -1,6 +1,6 @@
 ## Hi! I'm Diego!
 ### And I'm a student of analysis and systems development! 
-- I'm currenty studying Javascript and JS Frameworks!
+- I'm currenty studying AngularJS!
 - I have been working as an IT assistant for over a year!
 
 ### My skills:
