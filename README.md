@@ -1,6 +1,6 @@
 ## Hi! I'm Diego!
-### And I'm a student of analysis and systems development! 
-- I'm currenty studying AngularJS!
+### And I'm a student of cross-platform software development! 
+- I'm currenty studying Javascript!
 - I have been working as an IT assistant for over a year!
 
 ### My skills:
